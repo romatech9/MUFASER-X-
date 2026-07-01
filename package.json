@@ -1,0 +1,15 @@
+{
+  "name": "mufaser-x-minimal",
+  "version": "1.0.0",
+  "description": "MUFASER-X Minimal Pairing Bot",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^7.0.0-rc.13",
+    "pino": "^9.0.0",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
